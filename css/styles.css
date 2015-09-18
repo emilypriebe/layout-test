@@ -11,3 +11,10 @@ body {
   font-family: sans-serif;
   background-color: #e3e3e3;
 }
+
+.column1 {
+  max-width: 67%;
+  float: left;
+  background-color: #9ad3de;
+  min-height: 700px;
+}
