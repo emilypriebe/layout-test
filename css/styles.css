@@ -18,3 +18,10 @@ body {
   background-color: #9ad3de;
   min-height: 700px;
 }
+
+.column2 {
+  max-width: 33%;
+  float: left;
+  background-color: #89bdd3;
+  min-height: 700px;
+}
