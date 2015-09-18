@@ -6,3 +6,8 @@ header {
   background-color: gray;
   padding: 20px;
 }
+
+body {
+  font-family: sans-serif;
+  background-color: #e3e3e3;
+}
